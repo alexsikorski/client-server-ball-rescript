@@ -1,0 +1,6 @@
+M:\YEAR 3\ce303\C#Project\BallGameServer\BallGameServer\bin\Debug\BallGameServer.exe.config
+M:\YEAR 3\ce303\C#Project\BallGameServer\BallGameServer\bin\Debug\BallGameServer.exe
+M:\YEAR 3\ce303\C#Project\BallGameServer\BallGameServer\bin\Debug\BallGameServer.pdb
+M:\YEAR 3\ce303\C#Project\BallGameServer\BallGameServer\obj\Debug\Server.csprojResolveAssemblyReference.cache
+M:\YEAR 3\ce303\C#Project\BallGameServer\BallGameServer\obj\Debug\BallGameServer.exe
+M:\YEAR 3\ce303\C#Project\BallGameServer\BallGameServer\obj\Debug\BallGameServer.pdb

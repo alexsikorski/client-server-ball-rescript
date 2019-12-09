@@ -1,0 +1,6 @@
+M:\YEAR 3\ce303\C#Project\BallGameClient\BallGameClient\bin\Debug\BallGameClient.exe.config
+M:\YEAR 3\ce303\C#Project\BallGameClient\BallGameClient\bin\Debug\BallGameClient.exe
+M:\YEAR 3\ce303\C#Project\BallGameClient\BallGameClient\bin\Debug\BallGameClient.pdb
+M:\YEAR 3\ce303\C#Project\BallGameClient\BallGameClient\obj\Debug\BallGameClient.exe
+M:\YEAR 3\ce303\C#Project\BallGameClient\BallGameClient\obj\Debug\BallGameClient.pdb
+M:\YEAR 3\ce303\C#Project\BallGameClient\BallGameClient\obj\Debug\Client.csprojResolveAssemblyReference.cache
